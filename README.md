@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning  Spring Boot, Microservices, and advanced Guidewire concepts
 - 👯 I’m looking to collaborate on Java / Spring Boot / Open Source projects
 - 💬 Ask me about Guidewire PolicyCenter, Java, Spring Boot, REST APIs, and Spring Security
-- 📫 How to reach me: www.linkedin.com/in/manikanth-baragali-552b28235
+- 📫 How to reach me: manikantabaragali999@gmail.com
 
 
