@@ -10,6 +10,15 @@
 - 💬 Ask me about **Guidewire, Insurance Domain, Java, Spring Boot, REST APIs, Spring Security**
 - 📫 Reach me on manikantabaragali999@gmail.com
 
+---
+## Connect with me
+<a href="www.linkedin.com/in/manikanth-baragali-552b28235" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+       alt="LinkedIn"
+       width="40"
+       height="40"/>
+</a>
+
 
 ---
 
