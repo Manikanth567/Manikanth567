@@ -19,7 +19,7 @@
 
   </a>
   <a href="https://leetcode.com/u/manikanthMB/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg"  alt="LeetCode" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" width="40" height="40"/>
 </a>
 </p>
 
