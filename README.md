@@ -12,12 +12,20 @@
 
 ---
 ## Connect with me
-<a href="https://www.linkedin.com/in/manikanth-baragali-552b28235/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
-       alt="LinkedIn"
-       width="40"
-       height="40"/>
+
+<p>
+  <a href="https://www.linkedin.com/in/manikanth-baragali-552b28235/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"  width="40" height="45"/>
+
+  </a>
+  <a href="https://leetcode.com/u/manikanthMB/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg"  alt="LeetCode" width="40" height="40"/>
 </a>
+</p>
+
+   
+      
+
 
 
 ---
