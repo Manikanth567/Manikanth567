@@ -12,7 +12,7 @@
 
 ---
 ## Connect with me
-<a href="www.linkedin.com/in/manikanth-baragali-552b28235" target="_blank">
+<a href="https://www.linkedin.com/in/manikanth-baragali-552b28235/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
        alt="LinkedIn"
        width="40"
